@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\controllers\\findminpathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\controllers\\findminpathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\interfaces\\imaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\interfaces\\imaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\repositories\\maprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\repositories\\maprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\dto\\mapforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\dto\\mapforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\models\\mapdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\models\\mapdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\models\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\models\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\repositories\\mapdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\repositories\\mapdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\interfaces\\imapdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\interfaces\\imapdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\helpers\\matrixserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\helpers\\matrixserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\helpers\\matrixgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\helpers\\matrixgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250819140638_update-column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure.FindMinPath\\Migrations\\20250819140638_update-column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\helpers\\treasurefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\helpers\\treasurefinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\filters\\apiresponsewrapperresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\filters\\apiresponsewrapperresultfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\requests\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\requests\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\findminpathapi\\dto\\mapdetailforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35752BAB-BDAB-45D5-B1B2-9E1F3AE70F5D}|FindMinPathApi\\FindMinPathApi.csproj|solutionrelative:findminpathapi\\dto\\mapdetailforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\migrations\\20250817092510_addcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\migrations\\20250817092510_addcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|d:\\2.develops\\practicing\\awing_test\\backend\\findminpathapi\\infrastructure.findminpath\\migrations\\20250817085744_addnewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE140A31-11FC-4E3B-B7F1-D81051310E42}|Infrastructure.FindMinPath\\Infrastructure.FindMinPath.csproj|solutionrelative:infrastructure.findminpath\\migrations\\20250817085744_addnewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Program.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Program.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Program.cs",
+              "RelativeToolTip": "FindMinPathApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:25:56.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindMinPathController.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Controllers\\FindMinPathController.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Controllers\\FindMinPathController.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Controllers\\FindMinPathController.cs",
+              "RelativeToolTip": "FindMinPathApi\\Controllers\\FindMinPathController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAApwGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:16:51.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Map.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Models\\Map.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Models\\Map.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Models\\Map.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Models\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:43:48.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:21:57.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapDetail.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Models\\MapDetail.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Models\\MapDetail.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Models\\MapDetail.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Models\\MapDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:24:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMapRepository.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Interfaces\\IMapRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Interfaces\\IMapRepository.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Interfaces\\IMapRepository.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Interfaces\\IMapRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:12:32.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapRepository.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\MapRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Repositories\\MapRepository.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\MapRepository.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Repositories\\MapRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:11:42.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapForCreationDto.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Dto\\MapForCreationDto.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Dto\\MapForCreationDto.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Dto\\MapForCreationDto.cs",
+              "RelativeToolTip": "FindMinPathApi\\Dto\\MapForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:43:22.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapDetailRepository.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\MapDetailRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Repositories\\MapDetailRepository.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\MapDetailRepository.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Repositories\\MapDetailRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:25:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMapDetailRepository.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Interfaces\\IMapDetailRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Interfaces\\IMapDetailRepository.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Interfaces\\IMapDetailRepository.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Interfaces\\IMapDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:21:59.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatrixSerializer.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Helpers\\MatrixSerializer.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Helpers\\MatrixSerializer.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Helpers\\MatrixSerializer.cs",
+              "RelativeToolTip": "FindMinPathApi\\Helpers\\MatrixSerializer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:36:14.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MatrixGenerator.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Helpers\\MatrixGenerator.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Helpers\\MatrixGenerator.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Helpers\\MatrixGenerator.cs",
+              "RelativeToolTip": "FindMinPathApi\\Helpers\\MatrixGenerator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:17:16.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250819140638_update-column.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250819140638_update-column.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Migrations\\20250819140638_update-column.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250819140638_update-column.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Migrations\\20250819140638_update-column.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T14:06:38.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TreasureFinder.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Helpers\\TreasureFinder.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Helpers\\TreasureFinder.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Helpers\\TreasureFinder.cs",
+              "RelativeToolTip": "FindMinPathApi\\Helpers\\TreasureFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:08:35.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RequestParameters.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Requests\\RequestParameters.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Requests\\RequestParameters.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Requests\\RequestParameters.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Requests\\RequestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:20:18.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiResponseWrapperResultFilter.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Filters\\ApiResponseWrapperResultFilter.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Filters\\ApiResponseWrapperResultFilter.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Filters\\ApiResponseWrapperResultFilter.cs",
+              "RelativeToolTip": "FindMinPathApi\\Filters\\ApiResponseWrapperResultFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:35:54.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MapDetailForCreationDto.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Dto\\MapDetailForCreationDto.cs",
+              "RelativeDocumentMoniker": "FindMinPathApi\\Dto\\MapDetailForCreationDto.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\Dto\\MapDetailForCreationDto.cs",
+              "RelativeToolTip": "FindMinPathApi\\Dto\\MapDetailForCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:49:45.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FindMinPathApi\\appsettings.json",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\FindMinPathApi\\appsettings.json",
+              "RelativeToolTip": "FindMinPathApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T02:46:28.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250817092510_addcolumns.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250817092510_addcolumns.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Migrations\\20250817092510_addcolumns.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250817092510_addcolumns.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Migrations\\20250817092510_addcolumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:25:10.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T09:21:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Repositories\\RepositoryContext.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Repositories\\RepositoryContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:34:34.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250817085744_addnewcolumn.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250817085744_addnewcolumn.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Migrations\\20250817085744_addnewcolumn.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Migrations\\20250817085744_addnewcolumn.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Migrations\\20250817085744_addnewcolumn.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:57:44.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure.FindMinPath\\Repositories\\RepositoryManager.cs",
+              "ToolTip": "D:\\2.Develops\\Practicing\\Awing_test\\backend\\FindMinPathApi\\Infrastructure.FindMinPath\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "Infrastructure.FindMinPath\\Repositories\\RepositoryManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:28:42.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

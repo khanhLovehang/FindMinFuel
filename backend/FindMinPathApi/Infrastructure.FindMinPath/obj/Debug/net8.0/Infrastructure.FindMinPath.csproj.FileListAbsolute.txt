@@ -1,0 +1,28 @@
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.deps.json
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.runtimeconfig.json
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.pdb
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.csproj.AssemblyReference.cache
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.AssemblyInfoInputs.cache
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.AssemblyInfo.cs
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.csproj.CoreCompileInputs.cache
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\refint\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.pdb
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.genruntimeconfig.cache
+D:\2.Develops\Practicing\Awing test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\ref\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.deps.json
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.runtimeconfig.json
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\bin\Debug\net8.0\Infrastructure.FindMinPath.pdb
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.csproj.AssemblyReference.cache
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.AssemblyInfoInputs.cache
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.AssemblyInfo.cs
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.csproj.CoreCompileInputs.cache
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\refint\Infrastructure.FindMinPath.dll
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.pdb
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\Infrastructure.FindMinPath.genruntimeconfig.cache
+D:\2.Develops\Practicing\Awing_test\backend\FindMinPathApi\Infrastructure.FindMinPath\obj\Debug\net8.0\ref\Infrastructure.FindMinPath.dll

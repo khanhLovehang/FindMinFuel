@@ -1,0 +1,6 @@
+@FindMinPathApi_HostAddress = http://localhost:5174
+
+GET {{FindMinPathApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
