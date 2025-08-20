@@ -1,0 +1,219 @@
+{
+	"info": {
+		"_postman_id": "0f164ac2-5bff-4e5c-840c-be41e3e220ec",
+		"name": "FindMinPath",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6284094"
+	},
+	"item": [
+		{
+			"name": "GetMaps",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7083/api/v1/maps?page=1&size=10",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"api",
+						"v1",
+						"maps"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "size",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateMap",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Map 1\",\r\n    \"n\": 3,\r\n    \"m\": 3,\r\n    \"p\": 3,\r\n    \"matrixJson\": \"[[3, 2, 2],[2, 2, 2],[2, 2, 1]]\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7083/api/v1/FindMinPath/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"api",
+						"v1",
+						"FindMinPath",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateMap",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Map 1\",\r\n    \"n\": 3,\r\n    \"m\": 3,\r\n    \"p\": 3,\r\n    \"matrixJson\": \"[[3, 2, 2],[2, 2, 2],[2, 2, 1]]\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7083/api/v1/FindMinPath/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"api",
+						"v1",
+						"FindMinPath",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteMap",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Map 1\",\r\n    \"n\": 3,\r\n    \"m\": 3,\r\n    \"p\": 3,\r\n    \"matrixJson\": \"[[3, 2, 2],[2, 2, 2],[2, 2, 1]]\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7083/api/v1/FindMinPath/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"api",
+						"v1",
+						"FindMinPath",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CalculateMinFuel",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7083/api/v1/FindMinPath/GenerateMaxtrixAndFindMinPath?mapId=7",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"api",
+						"v1",
+						"FindMinPath",
+						"GenerateMaxtrixAndFindMinPath"
+					],
+					"query": [
+						{
+							"key": "mapId",
+							"value": "7"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Deletemap",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7083/api/v1/maps?mapId=8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7083",
+					"path": [
+						"api",
+						"v1",
+						"maps"
+					],
+					"query": [
+						{
+							"key": "mapId",
+							"value": "8"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
